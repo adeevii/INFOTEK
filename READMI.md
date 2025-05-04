@@ -2,7 +2,7 @@
  ## <p align="center" style="margin-top: 0;">Sistem Absensi Siswa Berbasis Web</p>
  
  <p align="center">
-   <img src="LogoUnsulbar.png" alt="SmartPresence Logo" width="300"/>
+   <img src="20250128_191142.png" alt="SmartPresence Logo" width="300"/>
  </p>
  
  
